@@ -17,11 +17,7 @@ public class Jokenpo {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("  JO-KEN-PÔ ");
-          Scanner scan = new Scanner(System.in);
-          
-          System.out.println("Informe seu nome: ");
-  
+    
     }
     
     
