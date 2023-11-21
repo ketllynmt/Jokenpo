@@ -7,7 +7,7 @@ package jokenpo;
  
 
 //primeiro comentario
-
+// segundo comentario
 
 import java.util.Scanner;
 
