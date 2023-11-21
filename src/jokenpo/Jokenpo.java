@@ -4,6 +4,10 @@
  * and open the template in the editor.
  */
 package jokenpo;
+ 
+
+//primeiro comentario
+
 
 import java.util.Scanner;
 
